@@ -1,4 +1,5 @@
-#Funcionamiento
+# Funcionamiento
+
 Instalar el makefile y ejecutar `tp1` o compilar en IDE incluyendo la libreria `functions`
 
 En Linux o Windows WSL:
